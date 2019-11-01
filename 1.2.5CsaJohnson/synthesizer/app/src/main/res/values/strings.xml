@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Synthesizer</string>
+    <string name="aButton">aButton</string>
+    <string name="bButton">bButton</string>
+    <string name="bbButton">bbButton</string>
+    <string name="cButton">cButton</string>
+    <string name="csButton">csButton</string>
+    <string name="dButton">dButton</string>
+    <string name="dsButton">dsButton</string>
+    <string name="eButton">eButton</string>
+    <string name="fButton">fButton</string>
+    <string name="fsButton">fsButton</string>
+    <string name="gButton">gButton</string>
+    <string name="gsButton">gsButton</string>
+    <string name="higheButton">higheButton</string>
+    <string name="highfButton">highfButton</string>
+    <string name="highfsButton">highfsButton</string>
+    <string name="highgButton">highgButton</string>
+    <string name="challengeOneButton">challengeOneButton</string>
+    <string name="challengeTwoButton">challengeTwoButton</string>
+    <string name="SelectedNoteButton">SelectedNoteButton</string>
+    <string name="TwinkleButton">TwinkleButton</string>
+    <string name="FavoriteButton">FavoriteButton</string>
+</resources>
